@@ -5,8 +5,9 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by 1 on 19.11.2016.
+ * Created by 1 on 19.11.2016. ,
  */
+
 
 class AdditionalAgreement extends Booking {
     private int contractnumber;
